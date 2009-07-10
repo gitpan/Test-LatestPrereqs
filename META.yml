@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Test-LatestPrereqs
-version:            0.01
+version:            0.02
 abstract:           test if the required module versions are big enough
 author:
     - Kenichi Ishigaki <ishigaki@cpan.org>
